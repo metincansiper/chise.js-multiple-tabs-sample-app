@@ -1,0 +1,18 @@
+.sbgn-network-container {
+  width: 50%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  z-index: 999;
+  border-color: gray;
+  border-width: 1px;
+  border-style: solid;
+}
+
+#sbgn-network-container1 {
+  left: 0px;
+}
+
+#sbgn-network-container2 {
+  left: 50%;
+}
